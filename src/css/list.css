@@ -1,0 +1,12 @@
+.header-container{
+    height: 60px;
+    background-color: darkcyan;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 5555;
+}
+.main{
+    top: 100px;
+    z-index: 5;
+}
